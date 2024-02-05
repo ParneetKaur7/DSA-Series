@@ -1,2 +1,1 @@
-# Javascript-Projects
-Basic javascript projects <br> By- Parneet Kaur
+# DSA series <br> DSA Problems Solved
