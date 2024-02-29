@@ -1,2 +1,2 @@
 # DSA series 
-DSA Problem Solved
+DSA Problems Solved
